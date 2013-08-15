@@ -1,0 +1,7 @@
+name: BetterMinecraft
+main: com.github.rocmalone.BetterMinecraft
+version: 0.1
+commands:
+    bm togglechat:
+        description: Toggles the receive item messages    
+        usage: /bm togglechat
